@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🌱 look up at the stars and not down at your feet.Try to make sense of what you see and wonder about what makes the universe exist.Be curious
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=dreamerldq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerldq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
